@@ -17,11 +17,13 @@ R2Script.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-24 18:24:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5805f0f3c3367200d93998ad81d3ae26</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>R2Script</sys_name>
         <sys_package display_value="Angular App" source="sn_angular_app">de2449ebc3327200d93998ad81d3aed8</sys_package>
         <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Angular App">de2449ebc3327200d93998ad81d3aed8</sys_scope>
         <sys_update_name>sys_script_include_5805f0f3c3367200d93998ad81d3ae26</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
