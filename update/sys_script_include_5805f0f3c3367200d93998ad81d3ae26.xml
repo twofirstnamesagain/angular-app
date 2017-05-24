@@ -3,28 +3,28 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>sn_angular_app.R1Script</api_name>
+        <api_name>sn_angular_app.R2Script</api_name>
         <client_callable>false</client_callable>
         <description>Release 2 version of this script</description>
-        <name>R1Script</name>
-        <script><![CDATA[var R1Script = Class.create();
-R1Script.prototype = {
+        <name>R2Script</name>
+        <script><![CDATA[var R2Script = Class.create();
+R2Script.prototype = {
     initialize: function() {
     },
 
-    type: 'R1Script'
+    type: 'R2Script'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-24 18:08:32</sys_created_on>
-        <sys_id>ae51f073c3367200d93998ad81d3aee2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>R1Script</sys_name>
+        <sys_created_on>2017-05-24 18:24:19</sys_created_on>
+        <sys_id>5805f0f3c3367200d93998ad81d3ae26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>R2Script</sys_name>
         <sys_package display_value="Angular App" source="sn_angular_app">de2449ebc3327200d93998ad81d3aed8</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Angular App">de2449ebc3327200d93998ad81d3aed8</sys_scope>
-        <sys_update_name>sys_script_include_ae51f073c3367200d93998ad81d3aee2</sys_update_name>
+        <sys_update_name>sys_script_include_5805f0f3c3367200d93998ad81d3ae26</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-24 18:23:58</sys_updated_on>
+        <sys_updated_on>2017-05-24 18:24:19</sys_updated_on>
     </sys_script_include>
 </record_update>
